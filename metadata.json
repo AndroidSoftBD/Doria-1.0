@@ -1,0 +1,6 @@
+{
+  "name": "Doria AI",
+  "description": "Futuristic cyberpunk AI companion featuring neural intelligence, cyber telemetry diagnostics, and interactive protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
